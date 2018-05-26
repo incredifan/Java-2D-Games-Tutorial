@@ -10,9 +10,10 @@ public class Application extends JFrame {
   }
 
   public void initUI() {
+
     add(new Board());
-    setSize(250, 200);
-    setTitle("Application");
+    setSize(330, 330);
+    setTitle("Donut");
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     setLocationRelativeTo(null);
   }

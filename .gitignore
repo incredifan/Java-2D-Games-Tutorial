@@ -1,4 +1,6 @@
 build/*
+*.swp
+
 # Compiled class file
 *.class
 
